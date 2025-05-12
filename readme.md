@@ -23,7 +23,7 @@ This Node.js application connects to the BetaCrew Exchange Server to retrieve st
 1. **Clone the Repository**:
 
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/ravi-dholaria/betacrew_exchange_server.git
    cd betacrew_exchange_client
    ```
 
